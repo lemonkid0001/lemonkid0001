@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lemonkid0001
+- 👀 I’m interested in coding and gaming
+- 🌱 I’m currently learning GraphQL
+- 💞️ I’m looking to collaborate on future projects
+- 📫 Twitter: @KidLemon_codes
